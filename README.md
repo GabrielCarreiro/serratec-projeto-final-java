@@ -27,4 +27,11 @@
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
 ---
-:mortar_board: Colaboradores <a href="https://git-scm.com/" target = "_blank"> Gabriel Carreiro </a></i><br>
+
+:mortar_board: Colaboradores 
+
+:woman: <a href="https://github.com/elviamasiero">Elvia Masiero</a></br>
+:boy: <a href="https://github.com/GabrielCarreiro">Gabriel Carrero </a></br>
+:woman: <a href="https://github.com/lais-mm">Laís Moreira </a></br>
+:woman: <a href="https://github.com/saalua">Luana Santos</a></br>
+:boy: <a href="https://github.com/PauloDudu">Paulo Eduardo</a></br>
